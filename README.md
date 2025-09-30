@@ -1,6 +1,6 @@
 # Abhishek-Shetty-02
 
-# 👨‍💻 Senior Data engineer Should we work together?
+# 👨‍💻 Senior Data Engineer
 
 # 👨‍🏫 Trainer and instructor at Courses and trainings
 

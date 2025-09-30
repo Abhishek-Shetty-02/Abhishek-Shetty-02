@@ -8,4 +8,3 @@
 
 # 🤩 Cloud Computing enthusiast
 
-# 🤔 Like what I'm doing? You can offer me a coffee

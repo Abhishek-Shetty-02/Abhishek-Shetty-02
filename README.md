@@ -1,10 +1,10 @@
 # Abhishek-Shetty-02
 
-# 👨‍💻 data engineer Should we work together?
+# 👨‍💻 Senior Data engineer Should we work together?
 
 # 👨‍🏫 Trainer and instructor at Courses and trainings
 
-# ✍️ Blogger at waitingforcode
+# ✍️ Blogger in data engineering specifically Design patterns
 
 # 🤩 Cloud Computing enthusiast
 
